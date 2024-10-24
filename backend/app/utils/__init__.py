@@ -1,0 +1,1 @@
+from app.utils.helpers import validate_product_data
